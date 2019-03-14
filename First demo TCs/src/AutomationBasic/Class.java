@@ -22,3 +22,4 @@ public class Class {
 //create a non static method without returning any value
 	public void multiply2() {
 }
+}
