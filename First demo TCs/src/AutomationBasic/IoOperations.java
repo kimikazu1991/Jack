@@ -32,7 +32,7 @@ public static void main (String[] args) {
 	System.out.println("Enter a value");
 	boolean val = scan.hasNextBoolean();
 	System.out.println("Your value is "+val);
-	gggsadas
+	gggsadassdsd
 }
 
 }
